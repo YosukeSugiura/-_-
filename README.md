@@ -9,6 +9,9 @@
 
 ### 演習課題１：声質変換
 
+コードの使い方は後述する．  
+[演習課題１：Worldによる声質変換.ipynb](https://github.com/YosukeSugiura/-_-/blob/main/%E6%BC%94%E7%BF%92%E8%AA%B2%E9%A1%8C%EF%BC%91%EF%BC%9AWorld%E3%81%AB%E3%82%88%E3%82%8B%E5%A3%B0%E8%B3%AA%E5%A4%89%E6%8F%9B.ipynb)
+
 Google Colabで声質変換アプリを実行する．
 自分の声を録音して，
 以下のパラメータを調整して，声質の違いについて考察した(感じた)内容をレポートにまとめる．
@@ -30,6 +33,9 @@ Google Colabで声質変換アプリを実行する．
   また，声質変換前(すべての)と声質変換後のwavファイルをダウンロードする．
 
 ### 演習課題２：音声認識
+
+コードの使い方は後述する．  
+[演習課題２：Whisperによる音声認識.ipynb](https://github.com/YosukeSugiura/-_-/blob/main/%E6%BC%94%E7%BF%92%E8%AA%B2%E9%A1%8C%EF%BC%92%EF%BC%9AWhisper%E3%81%AB%E3%82%88%E3%82%8B%E9%9F%B3%E5%A3%B0%E8%AA%8D%E8%AD%98.ipynb)
 
 Google Colabで音声認識アプリを実行する．ここで音声認識には，日本語に特化した Whisper base モデルを用いる．
 声質変換前と声質変換後のwavファイルをそれぞれ音声認識して，結果に違いがあるかを確認する．
